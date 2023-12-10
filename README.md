@@ -2,7 +2,7 @@
 <!--<img width="250" align="right" src="![image](https://github.com/wafaMohamed/wafaMohamed/assets/101423134/e136b979-c1da-4776-9dad-21362606a984)">-->
 
 <!-- Your profile image and heading -->
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Welcome to Ahmed Mohamed Tarek's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <!-- Typing SVG -->
 <p align="center">
