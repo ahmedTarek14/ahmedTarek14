@@ -8,7 +8,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Passionate%20about%20Laravel&font=Fira%20Code&center=true&width=440&height=45&color=0d6efd&vCenter=true&size=25"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Passionate%20about%20Laravel&font=Press%20Start%202P&center=true&width=440&height=45&color=0d6efd&vCenter=true&size=25"></a>
 </p>
 
 <!-- Contact and info section -->
